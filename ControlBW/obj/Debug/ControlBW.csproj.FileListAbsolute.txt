@@ -1,0 +1,10 @@
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\ControlBW\ControlBW\obj\Debug\ControlBW.csprojResolveAssemblyReference.cache
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\ControlBW\ControlBW\obj\Debug\ControlBW.MainForm.resources
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\ControlBW\ControlBW\obj\Debug\ControlBW.csproj.GenerateResource.Cache
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\ControlBW\ControlBW\obj\Debug\ControlBW.Forms.Ingresos_BsF.resources
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\ControlBW\ControlBW\obj\Debug\ControlBW.Forms.Ingresos_Divisas.resources
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\ControlBW\ControlBW\bin\Debug\Control BW.exe.config
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\ControlBW\ControlBW\bin\Debug\Control BW.exe
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\ControlBW\ControlBW\bin\Debug\Control BW.pdb
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\ControlBW\ControlBW\obj\Debug\Control BW.exe
+C:\Users\Hidalmy\Documents\SharpDevelop Projects\ControlBW\ControlBW\obj\Debug\Control BW.pdb
